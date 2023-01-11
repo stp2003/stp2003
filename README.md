@@ -51,6 +51,6 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stp2003&" alt="stp2003" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stp2003&theme=dark&" alt="stp2003" /></p>
 
 
