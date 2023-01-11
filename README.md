@@ -47,7 +47,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stp2003&layout=compact)](https://github.com/stp2003/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stp2003&layout=compact&theme=tokyonight)](https://github.com/stp2003/github-readme-stats)
 
 <br>
 
