@@ -13,7 +13,7 @@
 
 <br>
 
-
+![Shashwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=stp2003&show_icons=true&theme=tokyonight)
 
 
 <br>
@@ -47,7 +47,7 @@
 
 <br>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stp2003&layout=compact&theme=tokyonight)](https://github.com/stp2003/github-readme-stats)
 
 <br>
 
