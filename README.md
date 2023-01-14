@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;%20DS%20|%20Algorithms%20|%20JAVA%20|%20Cpp|%20Python;%20Android%20App%20Developer%20|%20Flutter%20Developer;Division%203%20on%20Codechef%20(2%20Stars);Always%20learning%20new%20things&center=true&width=550&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;%20DS%20|%20Algorithms%20|%20JAVA%20|%20Cpp%20|%20Python;%20Android%20App%20Developer%20|%20Flutter%20Developer;Division%203%20on%20Codechef%20(2%20Stars);Always%20learning%20new%20things&center=true&width=550&height=50"></a>
 </p>
 
 
@@ -60,4 +60,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=stp2003&theme=dark&border_radius=6.5)](https://git.io/streak-stats)
 
+<br>
 
+<!-- GIF FOOTER -->
+<!-- <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif"> -->
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
