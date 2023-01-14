@@ -13,7 +13,7 @@
 
 <br>
 
-![Shashwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=stp2003&show_icons=true&theme=tokyonight)
+![Shashwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=stp2003&show_icons=true&theme=tokyonigth)
 
 
 <br>
@@ -51,6 +51,6 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stp2003&theme=dark&" alt="stp2003" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=stp2003&theme=dark&border_radius=6.5)](https://git.io/streak-stats)
 
 
