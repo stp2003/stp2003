@@ -1,15 +1,22 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hello there 👋, I'm Shashwat Shandilya</h1>
-<h3 align="center">A passionate Android App developer from India</h3>
+
+<h1 align="center"><b>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Shashwat Shandilya</b></h1>
+
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;%20DS%20|%20Algorithms%20|%20JAVA%20|%20Cpp|%20Python;%20Android%20App%20Developer%20|%20Flutter%20Developer;Division%203%20on%20Codechef%20(2%20Stars);Always%20learning%20new%20things&center=true&width=550&height=50"></a>
+</p>
+
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stp2003&label=Profile%20views&color=0e75b6&style=flat" alt="stp2003" /> </p>
 
 <img align="centre" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stp2003" alt="stp2003" /></a> </p> -->
-
 
 <br>
 
