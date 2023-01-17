@@ -20,7 +20,7 @@
 
 <br>
 
-![Shashwat's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=stp2003&show_icons=true&theme=tokyonight)
+![Shashwat's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=stp2003&show_icons=true&theme=tokyonight&border_radius=7.6)
 
 
 <br>
@@ -54,7 +54,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=stp2003&layout=compact&theme=tokyonight)](https://github.com/stp2003/github-readme-stats)
+[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=stp2003&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/stp2003/github-readme-stats)
 
 <br>
 
