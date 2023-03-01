@@ -74,7 +74,7 @@
 
 # 📊 GitHub Streak:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=stp2003&theme=tokyonight_duo&border_radius=8.0&border=D9DDB5&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=stp2003&theme=tokyonight-duo&border_radius=8.2&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://git.io/streak-stats)
 
 <br>
 
