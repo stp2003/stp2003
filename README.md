@@ -70,13 +70,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stp2003&theme=tokyonight&border_radius=7.6)
 
 
-<br>
 
 # 📊 GitHub Streak:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=stp2003&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://git.io/streak-stats)
 
-<br>
+
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
