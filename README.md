@@ -72,7 +72,10 @@
 
 <br>
 
+## 💡 Leetcode Statistics
+![](https://leetcard.jacoblin.cool/shashwat_22?ext=activity)
 
+<br>
 
 # 📊 GitHub Contribution Graph:
 
