@@ -79,7 +79,7 @@
 
 # 📊 GitHub Contribution Graph:
 
-[![Shashwat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=stp2003&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shashwat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stp2003&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
