@@ -20,6 +20,12 @@
 <br>
 
 <br>
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br>
+<br>
 
 ![Shashwat's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=stp2003&show_icons=true&theme=tokyonight&border_radius=7.6)
 
@@ -74,6 +80,8 @@
 
 ## 💡 Leetcode Statistics
 ![](https://leetcard.jacoblin.cool/shashwat_22?ext=activity)
+
+
 
 <br>
 
