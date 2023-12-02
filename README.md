@@ -13,7 +13,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stp2003&label=Profile%20views&color=0e75b6&style=flat" alt="stp2003" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stp2003&label=Profile%20views&color=blueviolet&style=flat-square" alt="stp2003" /> </p>
 
 <img align="centre" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp">
 
