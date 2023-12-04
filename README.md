@@ -14,11 +14,14 @@
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stp2003&label=Profile%20views&color=blueviolet&style=flat-square" alt="stp2003" /> </p>
-
-<img align="centre" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp">
-
+<br>
 <br>
 
+<img align="centre" alt="Coding" width="700" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
+
+<br>
+<br>
+<br>
 <br>
 ### ✍️ Random Dev Quote
 
