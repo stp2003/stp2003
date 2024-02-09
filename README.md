@@ -86,7 +86,8 @@
 ## 💡 Leetcode Statistics
 ![](https://leetcard.jacoblin.cool/shashwat_22?ext=activity)
 
-
+## 💡 Gfg Statistics
+[![Shashwat's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=shashwatshandilya2003)](https://auth.geeksforgeeks.org/user/shashwatshandilya2003)
 
 <br>
 
