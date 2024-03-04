@@ -42,7 +42,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [100 Days DSA Code](https://github.com/stp2003/Dsa-100-Days-of-Code)
+- 🔭 I’m currently working on [150 Days DSA Code](https://github.com/stp2003/Dsa-150-Days-of-Code)
 
 - 🌱 I’m currently learning **Flutter**
 
